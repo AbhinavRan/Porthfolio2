@@ -39,11 +39,10 @@ table {
 }
 button {
    position: relative;
-   top:30px;
-   
-   background: transparent;
+   top:10px;
+   background: white;
    font-size: 12px;
-   padding: 5px 10px;
+   padding: 5px 15px;
    text-align: center;
    text-decoration: none;
    border-radius:8px;
@@ -53,10 +52,12 @@ button {
 
 }
 button:hover {
-   background: #fff;
-   color: #2B2B2B;
+   background: black;
+   color: white;
+
+
 }
-button i {
+button  {
    margin-right: 15px;
    font-size: 20px;
 }
